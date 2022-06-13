@@ -1,0 +1,285 @@
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+     .navbar-nav {
+	background: #252598;
+    }
+    
+    .navbar-toggler {
+	border: 0;
+    }
+    
+    button:focus {
+	outline: none;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-link {
+	text-align: center;
+    padding-bottom: 0;
+    }
+    
+    .navbar-toggler i{
+    color: #fff; 
+    }
+    
+    .navbar .navbar-nav .nav-link::after {
+	display: none;
+    }
+    
+    
+    #banner {
+	padding-top: 150px;
+	padding-bottom: 120px;
+    }
+    
+    .subscribe input {
+	display: none;
+    }
+    
+    .subscribe .btn i {
+	display: none;
+    }
+    
+    .mak textarea {
+	width: 210px;
+    }
+    
+    
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-nav {
+	background: #252598;
+    }
+    
+    .navbar-toggler {
+	border: 0;
+    }
+    
+    button:focus {
+	outline: none;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-link {
+	text-align: center;
+    padding-bottom: 0;
+    }
+    
+    .navbar-toggler i{
+        color: #fff;
+        
+    }
+    
+   .subscribe input {
+	display: none;
+    }
+    
+    .subscribe .btn i {
+	display: none;
+    }
+    
+    #banner {
+	padding-top: 150px;
+	padding-bottom: 120px;
+    }
+    
+    .navbar .navbar-nav .nav-link::after {
+	display: none;
+    }
+    
+    .about-text h2:after{
+       display: none;
+    }
+    .about-text h2:before{
+    display: none;
+    }
+    
+    .about-ditales h3 {
+	font-size: 15px;
+	padding-bottom: 0px;
+    }
+    
+    .about-ditales p {
+	padding-bottom: 0px;
+    }
+    
+    .about-coun h5 {
+	font-weight: 600;
+	font-size: 14px;
+    }
+    
+    .ser-text {
+	padding-right: 50px;
+    }
+    
+    .service-main {
+	border: none;
+    }
+    
+    .service-ico i {
+	margin-left: -50px;
+    }
+    
+    
+     .feed-img img {
+	width: 180px;
+	margin: auto;
+	border-radius: 50px;
+    }
+    
+    .feed-text p {
+	font-size: 14px;
+	text-align: center;
+    }
+    
+    .feed-text {
+	padding-top: 20px;
+    }
+    
+    .feed-text h3 {
+	font-size: 16px;
+	text-align: center;
+    }
+    
+    .feed-text h4 {
+	font-size: 16px;
+	text-align: center;
+    }
+    
+    .mmm {
+	text-align: center;
+    }
+    
+    .mak textarea {
+	width: 510px;
+    }
+    
+     .footer-item2 h3 {
+    padding-top: 25px;
+	padding-left: 0;
+    }
+    
+    .footer-item h3{
+        padding-top: 25px;
+    }
+    
+    .foot-ic i {
+	margin-left: 0;
+    }
+    
+    
+    
+}
+
+
+@media (max-width: 575.98px) {
+    
+    .navbar-nav {
+    background: #252598;
+    }
+    
+    .navbar-toggler i{
+        color: #fff;
+    }
+    
+    button:focus {
+	outline: none;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+	line-height: 24px;
+    }
+    
+    .navbar-expand-lg .navbar-nav .nav-link {
+	text-align: center;
+    }
+    
+    .sub {
+	display: none;
+    }
+    
+    .navbar .navbar-nav .nav-link::after {
+	display: none;
+    }
+    
+    .about-text h2:after{
+       display: none;
+    }
+    .about-text h2:before{
+    display: none;
+    }
+    
+    
+    .banner-text h1 {
+	font-size: 30px;
+    }
+    
+    #banner {
+	padding-top: 150px;
+	padding-bottom: 120px;
+    }
+    
+    .feed-img img {
+	width: 180px;
+	margin: auto;
+	border-radius: 50px;
+    }
+    
+    .feed-text p {
+	font-size: 14px;
+	text-align: center;
+    }
+    
+    .feed-text {
+	padding-top: 20px;
+    }
+    
+    .feed-text h3 {
+	font-size: 16px;
+	text-align: center;
+    }
+    
+    .feed-text h4 {
+	font-size: 16px;
+	text-align: center;
+    }
+    
+    .mmm {
+	text-align: center;
+    }
+    
+    .mak textarea {
+	width: 289px;
+    }
+    
+    .footer-item2 h3 {
+    padding-top: 25px;
+	padding-left: 0;
+    }
+    
+    .foot-ic i {
+	margin-left: 0;
+    }
+    
+    .copy-text h6 {
+	font-size: 13px;
+	line-height: 25px;
+    }
+    
+    .footer-item h3 {
+	padding-top: 25px;
+    }
+    
+    .facility-text h3 {
+	font-weight: 700;
+	font-size: 17px;
+    }
+    
+    
+    
+    
+}
